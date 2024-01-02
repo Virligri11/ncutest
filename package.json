@@ -9,11 +9,11 @@
     "server": "hexo server",
     "update-theme": "git submodule update --remote"
   },
-
   "hexo": {
     "version": "6.3.0"
   },
   "dependencies": {
+    "decap-cms-app": "^3.0.12",
     "hexo": "^6.3.0",
     "hexo-algolia": "^1.3.2",
     "hexo-deployer-git": "^4.0.0",
