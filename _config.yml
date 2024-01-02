@@ -127,8 +127,10 @@ search:
 #   branch: main
 
 backend:
-  name: git-gateway
-  branch: main
+  name: github
+  repo: https://github.com/Virligri11/ncutest.git # Path to your Github/Gitlab repository
+  branch: master # Branch to update
+  base_url: https://hexo-netlify-cms-vercel.vercel.app
 
 publish_mode: editorial_workflow
 
