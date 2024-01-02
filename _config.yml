@@ -42,7 +42,7 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
-skip_render:
+skip_render: admin/**
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -125,5 +125,3 @@ search:
 #   type: git
 #   repository: https://github.com/Virligri11/Virligri11.github.io.git
 #   branch: main
-
-skip_render: admin/**
