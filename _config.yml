@@ -130,7 +130,7 @@ backend:
   name: github
   repo: https://github.com/Virligri11/ncutest.git # Path to your Github/Gitlab repository
   branch: master # Branch to update
-  base_url: https://hexo-netlify-cms-vercel.vercel.app
+  base_url: https://ncutest-chi.vercel.app/
 
 publish_mode: editorial_workflow
 
