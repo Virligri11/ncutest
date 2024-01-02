@@ -121,7 +121,9 @@ search:
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: git
-  repository: https://github.com/Virligri11/Virligri11.github.io.git
-  branch: main
+# deploy:
+#   type: git
+#   repository: https://github.com/Virligri11/Virligri11.github.io.git
+#   branch: main
+
+skip_render: admin/**
