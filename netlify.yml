@@ -22,3 +22,26 @@ backend:
   base_url: https://hexo-netlify-cms-vercel.vercel.app
 
 publish_mode: editorial_workflow
+
+
+
+auto_generator:
+  post:
+    # If you have multiple Post folders, define multiple here, see https://github.com/jiangtj/blog/blob/master/netlify-cms.yaml
+    all_posts:
+      # set to false, turn off the default Post
+      #enabled: true
+      label: "Post"
+      folder: "source/_posts"
+      create: true
+      editor:
+        preview: true
+  # PageGeneration Configuration
+  page: 
+    enabled: true
+    config:
+      label: "Page"
+      # By default, deleting Page files is prohibited.
+      delete: false
+      editor:
+        preview: true
