@@ -1,5 +1,5 @@
 ---
-title: "# HOSA 生物与健康未来领袖研习社"
+title: HOSA 生物与健康未来领袖研习社
 date: 2024-01-16T08:54:00.784Z
 tags:
   - biology
