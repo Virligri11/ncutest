@@ -32,9 +32,9 @@ code_word_wrap: false
 # Social Settings (社交圖標設置)
 # formal:
 #   icon: link || the description || color
-social:
+# social:
   # fab fa-github: https://github.com/xxxxx || Github || '#24292e'
-  fas fa-envelope:2250027@ncpachina.org || Email || '#4a7dbe'
+  # fas fa-envelope:2250027@ncpachina.org || Email || '#4a7dbe'
 
 # Image (圖片設置)
 # --------------------------------------
@@ -228,7 +228,7 @@ aside:
     enable: false
     description:
     button:
-      enable: true
+      enable: false
       icon: fab fa-github
       text: Follow Me
       link: https://github.com/xxxxxx
