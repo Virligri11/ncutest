@@ -127,7 +127,4 @@ search:
 #   branch: main
 
 media_folder: "source/images"
-
-netlify_cms:
-  config_file: netlify.yml
-
+skip_render: admin/**

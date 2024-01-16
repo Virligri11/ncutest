@@ -1,7 +1,6 @@
 backend:
-  name: github
-  repo: https://github.com/Virligri11/ncutest.git # Path to your Github/Gitlab repository
-  branch: master # Branch to update
+  name: git-gateway
+  branch: master # Branch to update (master by default)
 
 # These lines should *not* be indented
 media_folder: 'source/images' # Media files will be stored in the repo under source/images
@@ -20,3 +19,6 @@ collections:
       - {label: 'Title', name: 'title', widget: 'string'}
       - {label: 'Publish Date', name: 'date', widget: 'datetime'}
       - {label: 'Body', name: 'body', widget: 'markdown'}
+————————————————
+版权声明：本文为CSDN博主「寻陌千」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/hangvane123/article/details/113751387
