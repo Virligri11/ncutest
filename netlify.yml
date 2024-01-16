@@ -1,4 +1,5 @@
 
+
 collections:
   collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog

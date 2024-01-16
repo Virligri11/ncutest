@@ -126,16 +126,8 @@ search:
 #   repository: https://github.com/Virligri11/Virligri11.github.io.git
 #   branch: main
 
-backend:
-  name: github
-  repo: https://github.com/Virligri11/ncutest.git # Path to your Github/Gitlab repository
-  branch: master # Branch to update
-  base_url: https://hexo-netlify-cms-vercel.vercel.app
-
 media_folder: "source/images"
 
 netlify_cms:
   config_file: netlify.yml
-
-
 
