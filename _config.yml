@@ -127,4 +127,3 @@ search:
 #   branch: main
 
 media_folder: "source/images"
-skip_render: admin/**
